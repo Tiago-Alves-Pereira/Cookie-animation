@@ -8,7 +8,7 @@ Este foi um pequeno projeto visando aplicar diversas animações, utilizando o f
 
 That was a little project developed with GSAP to apply animations. You can check the tutorial video to make your animation with GSAP below.
 
-[Vídeo tutorial](https://www.youtube.com/watch?v=r1iul4uRFuE)
+[Tutorial](https://www.youtube.com/watch?v=r1iul4uRFuE)
 
 # Tecnologias Utilizadas (Technologies)
 
@@ -17,5 +17,5 @@ That was a little project developed with GSAP to apply animations. You can check
 - JavaScript
 - GSAP framework JS
 
-[Documentação do GSAP](https://greensock.com/gsap/)
-[GSAP Documentation](https://greensock.com/gsap/)
+[Documentação do GSAP](https://greensock.com/gsap/).
+[GSAP Documentation](https://greensock.com/gsap/).
