@@ -17,5 +17,4 @@ That was a little project developed with GSAP to apply animations. You can check
 - JavaScript
 - GSAP framework JS
 
-[Documentação do GSAP](https://greensock.com/gsap/).
-[GSAP Documentation](https://greensock.com/gsap/).
+[GSAP Documentation](https://greensock.com/gsap/)
