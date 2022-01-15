@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+.cookie-container {
+  align-items: center;
+  background: linear-gradient(225deg, #9b6c50 30%, #4f2626 100%);
+  border-radius: 1.2rem;
+  color: white;
+  display: flex;
+  height: 10rem;
+  justify-content: space-between;
+  left: 50%;
+  padding: 1rem;
+  position: absolute;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 20rem;
+}
+
+.text {
+  width: 60%;
+}
+
+.cookie {
+  transform: scale(0.7);
+  overflow: visible;
+}
+
+.cookie-title {
+  font-size: 1.2rem;
+  font-weight: lighter;
+}
+.cookie-subtitle {
+  font-size: 0.65rem;
+  font-weight: 400;
+  padding: 0.7rem 0;
+}
+
+.cookie-button {
+  border-radius: 0.3rem;
+  border-style: none;
+  color: #4f2626;
+  font-size: 0.6rem;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+}
