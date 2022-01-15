@@ -20,12 +20,12 @@ tl.fromTo('.text', { opacity: 0, x: 30 }, { opacity: 1, x: 0 }, '<')
 tl.fromTo(
   '.cookie',
   { y: 0, rotation: '0deg' },
-  { y: -20, rotation: '-20deg', yoyo: true, repeat: -1, duration: 0.5 }
+  { y: -10, rotation: '-20deg', yoyo: true, repeat: -1, duration: 0.5 }
 )
 tl.fromTo(
   '#crumbs',
   { y: 0 },
-  { y: -20, yoyo: true, repeat: -1, duration: 0.5 },
+  { y: -10, yoyo: true, repeat: -1, duration: 0.5 },
   '<'
 )
 

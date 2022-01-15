@@ -18,15 +18,17 @@
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
-  width: 20rem;
+  width: 21rem;
 }
 
 .text {
   width: 60%;
+  display: flex;
+  flex-direction: column;
 }
 
 .cookie {
-  transform: scale(0.7);
+  transform: scale(0.8);
   overflow: visible;
 }
 
@@ -47,5 +49,6 @@
   font-size: 0.6rem;
   font-weight: bold;
   padding: 0.5rem 1rem;
-  transform: translateX(95%);
+  width: fit-content;
+  align-self: flex-end;
 }
