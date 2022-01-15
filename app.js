@@ -24,8 +24,8 @@ tl.fromTo(
 )
 tl.fromTo(
   '#crumbs',
-  { y: 0 },
-  { y: -10, yoyo: true, repeat: -1, duration: 0.5 },
+  { y: 0, x: 0 },
+  { y: -10, x: 7, yoyo: true, repeat: -1, duration: 0.5 },
   '<'
 )
 
